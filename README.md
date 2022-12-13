@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adrian Malos
-- 👀 I’m interested in developing start-up software projects using Java and Python;
-- 🌱 I’m currently learning Java;
+- 👀 I’m interested in developing start-up software projects using Java;
+- 🌱 I’m currently learning Spring;
 - 💞️ I’m looking to collaborate on challenging projects;
 - 📫 How to reach me? please send your thoughts at malos.adrian@yahoo.com;
 
